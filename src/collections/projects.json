@@ -1,38 +1,44 @@
 [
   {
     "name": "eSend",
-    "description": "Web Toolbox.",
-    "image": "/assets/images/projects/html.zone.png",
-    "url": "/project/esend-website"
+    "description": "Web application to send data with E2E encryption.",
+    "image": "/assets/images/projects/esend.png",
+    "url": "/project/esend-website",
+    "href": "esend.es"
   },
   {
     "name": "FUERTON",
     "description": "Landing page for a password manager.",
     "image": "/assets/images/projects/fuertonsite.png",
-    "url": "/project/fuerton-website"
+    "url": "/project/fuerton-website",
+    "href": "fuerton.com"
   },
   {
     "name": "Tornalti Solar",
     "description": "Landing page for a solar developer.",
     "image": "/assets/images/projects/tornaltisolar.png",
-    "url": "/project/tornalti-website"
+    "url": "/project/tornalti-website",
+    "href": "tornaltisolar.com"
   },
   {
     "name": "BlackData",
     "description": "Cybersecurity and software development company.",
     "image": "/assets/images/projects/blackdata2.png",
-    "url": "/project/blackdata-website"
+    "url": "/project/blackdata-website",
+    "href": "blackdata.es"
   },
   {
     "name": "Be12",
     "description": "Product page for a Swiss-based data vault",
     "image": "/assets/images/projects/be12.png",
-    "url": "/project/be12-website"
+    "url": "/project/be12-website",
+    "href": "be12.ch"
   },
   {
     "name": "A.G. Renovables",
     "description": "Landing page for a solar developer.",
     "image": "/assets/images/projects/agrenovables2.png",
-    "url": "/project/agr-website"
+    "url": "/project/agr-website",
+    "href": "agrenovables.com"
   }
 ]
