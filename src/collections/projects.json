@@ -1,0 +1,38 @@
+[
+  {
+    "name": "eSend",
+    "description": "Web Toolbox.",
+    "image": "/assets/images/projects/html.zone.png",
+    "url": "/project/esend-website"
+  },
+  {
+    "name": "FUERTON",
+    "description": "Landing page for a password manager.",
+    "image": "/assets/images/projects/fuertonsite.png",
+    "url": "/project/fuerton-website"
+  },
+  {
+    "name": "Tornalti Solar",
+    "description": "Landing page for a solar developer.",
+    "image": "/assets/images/projects/tornaltisolar.png",
+    "url": "/project/tornalti-website"
+  },
+  {
+    "name": "BlackData",
+    "description": "Cybersecurity and software development company.",
+    "image": "/assets/images/projects/blackdata2.png",
+    "url": "/project/blackdata-website"
+  },
+  {
+    "name": "Be12",
+    "description": "Product page for a Swiss-based data vault",
+    "image": "/assets/images/projects/be12.png",
+    "url": "/project/be12-website"
+  },
+  {
+    "name": "A.G. Renovables",
+    "description": "Landing page for a solar developer.",
+    "image": "/assets/images/projects/agrenovables2.png",
+    "url": "/project/agr-website"
+  }
+]
