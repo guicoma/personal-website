@@ -22,14 +22,14 @@
   },
   {
     "name": "BlackData",
-    "description": "Cybersecurity and software development company.",
+    "description": "Website for a cybersecurity and software development company.",
     "image": "/assets/images/projects/blackdata2.png",
     "url": "/project/blackdata-website",
     "href": "blackdata.es"
   },
   {
     "name": "Be12",
-    "description": "Product page for a Swiss-based data vault",
+    "description": "Product page for a Swiss-based data vault.",
     "image": "/assets/images/projects/be12.png",
     "url": "/project/be12-website",
     "href": "be12.ch"
