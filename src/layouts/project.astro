@@ -24,9 +24,9 @@ const { frontmatter } = Astro.props;
                 {frontmatter.title}
             </h1>
             <div class="w-full max-w-2xl mx-auto">
-                <div>Date: {frontmatter.date}</div>
-                <div>Tech stack: {frontmatter.techStack}</div>
-                {frontmatter.href? <div>URL: <a href="{frontmatter.href}" target="_blank">{frontmatter.href}</a></div> : ""}
+                <div class="dark:text-neutral-100">Date: {frontmatter.date}</div>
+                <div class="dark:text-neutral-100">Tech stack: {frontmatter.techStack}</div>
+                {frontmatter.href? <div class="dark:text-neutral-100">URL: <a href="{frontmatter.href}" target="_blank" class="text-blue-600 dark:text-blue-500 hover:underline">{frontmatter.href}</a></div> : ""}
             </div>
         </div>
         <article
